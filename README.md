@@ -1,6 +1,8 @@
-# big-event
+# big-event @hot7
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite.Hope it is helpful for u!
+
+You can have a contact with me at wechat by like7heat
 
 ## Recommended IDE Setup
 
